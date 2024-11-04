@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://unifies.github.io/Blog-Preview-Card
-- Live Site URL: https://your-live-site-url.com
+- Solution URL: [https://unifies.github.io/Blog-Preview-Card](https://github.com/Unifies/Blog-Preview-Card)
+- Live Site URL: [https://unifies.github.io/Blog-Preview-Card](https://unifies.github.io/Blog-Preview-Card/)
 
 ### Built with
 
