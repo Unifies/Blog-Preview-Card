@@ -56,7 +56,7 @@ body {
     display: flex;
 }
 
-.blogText h2{
+.blogText .learning{
     padding: 4px 12px;
     background-color: var(--Yellow);
     color: var(--Gray-950);
@@ -66,7 +66,7 @@ body {
     margin-bottom: 12px;
 }
 
-.blogText h3{
+.blogText .date{
     font-size: 14px;
     font-weight: var(--fw-500);
     color: var(--Gray-950);
@@ -85,7 +85,7 @@ body {
     color: var(--Yellow);
 }
 
-.blogText p{
+.blogText .paragraph{
     font-size: 16px;
     font-weight: var(--fw-500);
     line-height: 1.5;
@@ -104,7 +104,7 @@ body {
     height: 32px;
 }
 
-.blogAuthor h4{
+.blogAuthor h2{
     margin: auto 0;
     color: var(--Gray-950);
 }
@@ -132,7 +132,7 @@ body {
         font-size: 20px;
     }
     
-    .blogText p{
+    .blogText h2{
         font-size: 14px;
     }
 
